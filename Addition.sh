@@ -1,3 +1,5 @@
 #! /bin/bash
 
-echo "1+2"
+n1=2
+n2=3
+echo "$((n1+n2))"
